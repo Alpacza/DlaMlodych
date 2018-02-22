@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.clearfix {
+    clear: both;
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+    line-height: 30px;
+}
+
+h2 {
+    display: block;
+    text-align: center;
+}
+
+/* NAGŁÓWEK */
+
+header {
+    width: auto;
+    height: 50px;
+    text-align: center;
+}
+
+/* NAWIGACJA */
+
+.navigation {
+    width: 300px;
+    border: 1px solid black;
+    float: left;
+    padding: 20px;
+}
+
+/* TREŚĆ */
+
+.content {
+    float: left;
+    max-width: 700px;
+
+}
+
+.content div {
+    margin: 50px;
+}
+
+#dlakogo {
+    text-align: center;
+}
+
+#dlaczegoWarto {
+
+}
+
+#dlaczegoNieWarto {
+
+}
+
+
+
+/* STOPKA */
+
+footer {
+    display: block;
+    float: left;
+    height: 200px;
+    width: 800px;
+    text-align: center;
+    margin-top: 50px;
+    padding-left: 300px;
+}
+
